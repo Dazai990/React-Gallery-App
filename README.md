@@ -1,4 +1,4 @@
-📸 Picsum Gallery – Responsive Image Gallery with Pagination (React + Tailwind) 
+📸 Gallery App – Responsive Image Gallery with Pagination (React + Tailwind) 
 --------------------------------------------------------------------------------
 This project is a fully responsive React-based image gallery that demonstrates my ability to work with third-party APIs, manage data dynamically, and build a clean UI using Tailwind CSS.
 The application fetches high-quality images from the Picsum Photos API and displays them with pagination. Each page loads a fresh set of images directly from the external API, without reducing or compressing the image quality. Websites url -- https://image-web-app.netlify.app
